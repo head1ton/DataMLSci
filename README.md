@@ -1,6 +1,15 @@
 # MY Practice Git
  After conducting some basic tests, the actual project will be released after completing one paragraph at a time.
 
+### Mini Machine Learning Project
+
+| ***finance*** | ***iris***                                                                                 | ***penguins***                                                                              |
+| --- |--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| <img src='./finance/finance.png' style='object-fit:contain;' width='200px' height='120px'> | <img src='./iris-ml/iris-ml.png' style='object-fit:contain;' width='200px' height='120px'> | <img src='./penguins/penguins.png' style='object-fit:contain;' width='200px' height='120px'> |
+
+
+
+
 
 # Computer Vision
  * ***opencv***
