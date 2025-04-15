@@ -13,7 +13,11 @@
 
 
 ```
+penguins
 https://dataprofeappr-pqtqnunb88ehcu56sbwupu.streamlit.app/
+
+nba
+https://kt6n46atuav7g45ltxzhqg.streamlit.app/
 ```
 
 
