@@ -1,5 +1,6 @@
 # MY Practice Git
  After conducting some basic tests, the actual project will be released after completing one paragraph at a time.
+**When we're done with the mini project, we're officially starting the project!!**
 
 ### Mini very very basic Machine Learning Project
 
