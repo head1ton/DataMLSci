@@ -43,7 +43,7 @@ if uploaded_file is not None:
 else:
     input_df = user_input_features()
 
-penguins_raw = pd.read_csv('penguins_cleaned.csv')
+penguins_raw = pd.read_csv('../penguins/penguins_cleaned.csv')
 penguins = penguins_raw.drop(columns=['species'])
 df = pd.concat([input_df, penguins], axis=0)
 
@@ -64,7 +64,7 @@ else:
     st.write('Awaiting CSV file to be uploaded. Currently using example input parameters (shown below).')
     st.write(df)
 
-load_clf = pickle.load(open('penguins_clf.pkl', 'rb'))
+load_clf = pickle.load(open('../penguins/penguins_clf.pkl', 'rb'))
 
 prediction = load_clf.predict(df)
 prediction_proba = load_clf.predict_proba(df)
