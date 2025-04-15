@@ -34,7 +34,7 @@ Data obtained from the [palmerpenguins library](https://github.com/allisonhorst/
 st.sidebar.header('User Input Features')
 
 st.sidebar.markdown("""
-[Example CSV input file](https://raw.githubusercontent.com/head1ton/data/master/penguins_example.csv)
+[Example CSV input file](https://raw.githubusercontent.com/head1ton/DataProfessor/refs/heads/main/penguins/penguins_example.csv)
 """)
 
 uploaded_file = st.sidebar.file_uploader("Upload your input CSV file", type=["csv"])
