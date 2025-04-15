@@ -1,7 +1,7 @@
 # MY Practice Git
  After conducting some basic tests, the actual project will be released after completing one paragraph at a time.
 
-### Mini Machine Learning Project
+### Mini very very basic Machine Learning Project
 
 | ***finance***                                                                             | ***iris***                                                                                 | ***penguins***                                                                               |
 |-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
