@@ -2,6 +2,10 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
+import os
+
+base_dir = os.path.dirname(os.path.abspath(__file__))
+
 
 from sklearn.ensemble import RandomForestClassifier
 
@@ -43,7 +47,8 @@ if uploaded_file is not None:
 else:
     input_df = user_input_features()
 
-penguins_raw = pd.read_csv('../penguins/penguins_cleaned.csv')
+csv_path = os.path.join(base_dir, 'penguins_cleaned.csv')
+penguins_raw = pd.read_csv(csv_path)
 penguins = penguins_raw.drop(columns=['species'])
 df = pd.concat([input_df, penguins], axis=0)
 
@@ -64,7 +69,8 @@ else:
     st.write('Awaiting CSV file to be uploaded. Currently using example input parameters (shown below).')
     st.write(df)
 
-load_clf = pickle.load(open('../penguins/penguins_clf.pkl', 'rb'))
+model_path = os.path.join(base_dir, 'penguins_clf.pkl')
+load_clf = pickle.load(open(model_path, 'rb'))
 
 prediction = load_clf.predict(df)
 prediction_proba = load_clf.predict_proba(df)
