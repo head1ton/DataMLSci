@@ -8,9 +8,9 @@
 |-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | <img src='./finance/finance.png' style='object-fit:contain;' width='200px' height='120px'> | <img src='./iris-ml/iris-ml.png' style='object-fit:contain;' width='200px' height='120px'> | <img src='./penguins/penguins.png' style='object-fit:contain;' width='200px' height='120px'> |
 
-| ***NBA***                                                                                 |                                                                                                        |                                                                                        |
-|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| <img src='./basketball/nba.gif' style='object-fit:contain;' width='200px' height='120px'> | <img src='./breast-cancer/breast_cancer.png' style='object-fit:contain;' width='200px' height='120px'> |                                                                                        |
+| ***NBA***                                                                                 | ***breast cancer***                                                                                    | ***solubility***                                                                                |
+|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| <img src='./basketball/nba.gif' style='object-fit:contain;' width='200px' height='120px'> | <img src='./breast-cancer/breast_cancer.png' style='object-fit:contain;' width='200px' height='120px'> | <img src='./solubility/solubility.png' style='object-fit:contain;' width='200px' height='120px'> |
 
 
 ```
