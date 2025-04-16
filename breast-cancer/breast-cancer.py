@@ -166,6 +166,7 @@ st.header('Specified Input parameters')
 st.write(df)
 st.write('---')
 
+# 해당 로직은 그냥 기본만 돌려본 거뿐 정규화나 모델링은 다시 적용해야함.
 model = RandomForestClassifier(n_estimators=100)
 # model.fit(X, y)
 model.fit(x_train, y_train)
