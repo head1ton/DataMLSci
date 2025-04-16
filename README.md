@@ -12,7 +12,7 @@
 |-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | <img src='./basketball/nba.gif' style='object-fit:contain;' width='200px' height='120px'> | <img src='./breast-cancer/breast_cancer.png' style='object-fit:contain;' width='200px' height='120px'> | <img src='./solubility/solubility.png' style='object-fit:contain;' width='200px' height='120px'> |
 
- ***dna***, ***football***, etc
+ ***dna***, ***football***, ***ml-RandomForestRegression***, etc
 
 ```
 penguins
