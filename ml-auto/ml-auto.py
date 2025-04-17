@@ -94,7 +94,7 @@ def build_model(df):
     sns.set_theme(style="whitegrid")
     ax2 = sns.barplot(x=predictions_test.index, y="RMSE", data=predictions_test, palette='rainbow')
     plt.xticks(rotation=90)
-    st.pyplot(plt)
+    st.pyplot(plt) 
     st.markdown(imageDownload(plt,'plot-rmse-wide.pdf'), unsafe_allow_html=True)
 
     with st.markdown('**Calculation time**'):
