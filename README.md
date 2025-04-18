@@ -4,9 +4,9 @@
 
 ### Mini very very basic Machine Learning Project
 
-| ***ML RandomForest***                                                                             | ***ML Optimizer***                                                                             | ***etc***                                                                                        |
-|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| <img src='./ml-app/ml-randomforest.png' style='object-fit:contain;' width='200px' height='120px'> | <img src='./ml-optimizer/ml-opt.png' style='object-fit:contain;' width='200px' height='120px'> |  |
+| ***ML RandomForest***                                                                             | ***ML Optimizer***                                                                             | ***ML Performance***                                                                                           |
+|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| <img src='./ml-app/ml-randomforest.png' style='object-fit:contain;' width='200px' height='120px'> | <img src='./ml-optimizer/ml-opt.png' style='object-fit:contain;' width='200px' height='120px'> | <img src='./model_performance/model_performance.png' style='object-fit:contain;' width='200px' height='120px'> |
 
 | ***finance***                                                                             | ***iris***                                                                                 | ***penguins***                                                                               |
 |-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
@@ -16,7 +16,7 @@
 |-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | <img src='./basketball/nba.gif' style='object-fit:contain;' width='200px' height='120px'> | <img src='./breast-cancer/breast_cancer.png' style='object-fit:contain;' width='200px' height='120px'> | <img src='./solubility/solubility.png' style='object-fit:contain;' width='200px' height='120px'> |
 
- ***dna***, ***football***, etc
+ and ***dna***, ***football***, ***stack***, ***multi-page***, ***theme***, etc
 
 ```
 penguins
